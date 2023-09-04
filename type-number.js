@@ -23,3 +23,10 @@ const pontoFlutuanteSemZero = .5;
 const operacoesComDecimal = pontoFlutuanteSemZero / Math.PI;
 console.log(operacoesComDecimal);
 
+// NaN = Not a Number (não é um número)
+const meuNome = "Vinícius"
+const minhaIdade = 20;
+
+const nomeIdade = meuNome * minhaIdade;
+
+console.log(nomeIdade)
