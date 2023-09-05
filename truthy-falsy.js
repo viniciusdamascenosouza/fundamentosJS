@@ -11,3 +11,12 @@ const contaPaga = false;
 
 console.log(0 == false);
 console.log("" == false);
+
+// undefined
+let minhaVar;
+
+console.log(minhaVar);
+// null => vazio ou nada
+let varNull = null;
+
+console.log(varNull);
