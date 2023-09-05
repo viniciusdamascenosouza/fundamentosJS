@@ -16,7 +16,15 @@ console.log("" == false);
 let minhaVar;
 
 console.log(minhaVar);
+
 // null => vazio ou nada
 let varNull = null;
 
 console.log(varNull);
+
+let numero = 5;
+let texto = 'Vinícius';
+
+console.log(typeof minhaVar);
+console.log(typeof varNull);
+
