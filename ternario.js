@@ -6,5 +6,5 @@ if (idadeCliente1 >= idadeMinima) {
 } else {
   console.log("O cliente é de menor, não pode consumir bebida alcoólica!");
 }
-
-console.log(idadeCliente1 >= idadeMinima ? maior() : menor());
+            // condição                    //true     //false
+console.log(idadeCliente1 >= idadeMinima ? "pinga" : "suco");
