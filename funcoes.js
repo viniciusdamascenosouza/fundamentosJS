@@ -14,6 +14,8 @@ imprimeTexto(soma());
 
 // FUNÇÃO SEM PASSAR UM PARÂMETRO
 function soma() {
+    // O return pode ter outros códigos antes, mas o mesmo deve ser o último conteudo 
+    // antes de fechar o bloco de códigos dentro de função
     return 2 + 2;
 }
 
