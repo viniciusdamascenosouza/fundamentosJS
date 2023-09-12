@@ -7,7 +7,7 @@ const cidadeDeNascimento = "Andrelândia-MG";
 
 // console.log(apresentacao);
 
-// TEMPLATE STRING
+// TEMPLATE STRING ou  TEMPLATE LITERAL
 
 const apresentacao = `Meu nome é ${nome}, tenho ${idade} anos e nasci na cidade de ${cidadeDeNascimento}`;
 
