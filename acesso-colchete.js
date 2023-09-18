@@ -19,5 +19,21 @@ console.log(
 const chaves = ["nome", "idade", "cpf", "email", "altura"];
 
 chaves.forEach((chave) => {
-  console.log(`A chave ${chave} tem valor ${cliente[chave]}.`);
+    console.log(`A chave ${chave} tem valor ${cliente[chave]}.`);
 });
+
+// atividade
+const pet = {
+  nome: "Rex",
+  dataDeNascimento: "12/03/2017",
+  brinquedoFavorito: "bolinha",
+  cor: "cinza",
+};
+
+const dadosPet = ["nome", "dataDeNascimento", "brinquedoFavorito", "cor"];
+
+dadosPet.forEach((dado) => {
+    console.log(
+        `O dado ${dado} tem o valor: ${pet[dado]}`
+        )
+})
