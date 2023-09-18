@@ -32,8 +32,8 @@ const pet = {
 
 const dadosPet = ["nome", "dataDeNascimento", "brinquedoFavorito", "cor"];
 
-dadosPet.forEach((dado) => {
+dadosPet.forEach((chave) => {
     console.log(
-        `O dado ${dado} tem o valor: ${pet[dado]}`
+        `A chave ${chave} tem o valor: ${pet[chave]}`
         )
 })
