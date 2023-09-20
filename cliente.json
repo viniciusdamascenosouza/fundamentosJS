@@ -1,0 +1,15 @@
+{
+    "nome": "Gilmar",
+    "email": "gilmarlucio@dominio.com",
+    "telefone": [
+        "999988889",
+        "2221222"
+    ],
+    "endereco": {
+        "rua": "Margaridas",
+        "bairro": "Flores",
+        "numero": 201,
+        "apartamento": true,
+        "complemento": "Apartamento 6"
+    }
+}
