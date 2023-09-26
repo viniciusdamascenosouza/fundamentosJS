@@ -12,3 +12,4 @@ function filtraApSemComplemento(lista) {
 const clientesComApSemComplemento = filtraApSemComplemento(clientes);
 
 console.log(clientesComApSemComplemento);
+
